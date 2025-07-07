@@ -29,4 +29,6 @@ When exploring this darknet marketplace, always prioritize your security and imp
 
 
 
-Update: Fixed inaccessible url
+
+
+Update: url is operational
