@@ -37,4 +37,6 @@ When exploring this darknet marketplace, always prioritize your security and imp
 
 
 
-Update:  21.07.2025
+
+
+Update: link is back online and functioning
